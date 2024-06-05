@@ -1,2 +1,2 @@
-# simple-HTML
-simple page  in HTML
+# simple-web page
+simple page using html & css
